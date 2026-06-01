@@ -1,0 +1,43 @@
+com.aureus.budget.app-room-runtime-release-0 /Users/mrsiir/.gradle/caches/9.2.1/transforms/005990cbf3378b4db2be801b0114da2e/transformed/room-runtime-release/res
+com.aureus.budget.app-security-crypto-1.1.0-alpha06-1 /Users/mrsiir/.gradle/caches/9.2.1/transforms/02abfd4a5431204852df2d618a98c36b/transformed/security-crypto-1.1.0-alpha06/res
+com.aureus.budget.app-savedstate-1.2.1-2 /Users/mrsiir/.gradle/caches/9.2.1/transforms/06edb85ef175a64681397269171b70a0/transformed/savedstate-1.2.1/res
+com.aureus.budget.app-material-1.11.0-3 /Users/mrsiir/.gradle/caches/9.2.1/transforms/1bf06453fecaa97c823a3d0127f465b3/transformed/material-1.11.0/res
+com.aureus.budget.app-viewpager2-1.1.0-beta02-4 /Users/mrsiir/.gradle/caches/9.2.1/transforms/2658a68f0d6703bf14c65fbf31800548/transformed/viewpager2-1.1.0-beta02/res
+com.aureus.budget.app-emoji2-1.2.0-5 /Users/mrsiir/.gradle/caches/9.2.1/transforms/2ba9b93a9d1c8cd916157e2e7bd4807d/transformed/emoji2-1.2.0/res
+com.aureus.budget.app-startup-runtime-1.1.1-6 /Users/mrsiir/.gradle/caches/9.2.1/transforms/341b39f6636ac98fb1cfd39b8c318ddf/transformed/startup-runtime-1.1.1/res
+com.aureus.budget.app-core-1.12.0-7 /Users/mrsiir/.gradle/caches/9.2.1/transforms/3513285ca81a4ea54ff33f0efbc16f76/transformed/core-1.12.0/res
+com.aureus.budget.app-customview-poolingcontainer-1.0.0-8 /Users/mrsiir/.gradle/caches/9.2.1/transforms/36972411f7e6de9a3c453ed5b6d8d12e/transformed/customview-poolingcontainer-1.0.0/res
+com.aureus.budget.app-emoji2-views-helper-1.2.0-9 /Users/mrsiir/.gradle/caches/9.2.1/transforms/418b15b68269d094e803b34eba9eb955/transformed/emoji2-views-helper-1.2.0/res
+com.aureus.budget.app-recyclerview-1.3.2-10 /Users/mrsiir/.gradle/caches/9.2.1/transforms/4f6439032cc0a361dc79f1aecc9d2c0b/transformed/recyclerview-1.3.2/res
+com.aureus.budget.app-lifecycle-livedata-core-ktx-2.7.0-11 /Users/mrsiir/.gradle/caches/9.2.1/transforms/4f78f76ff98817de32d7ea46bc073cae/transformed/lifecycle-livedata-core-ktx-2.7.0/res
+com.aureus.budget.app-glide-4.16.0-12 /Users/mrsiir/.gradle/caches/9.2.1/transforms/51f6ea3e3b5d318dfb9a552e0de740d0/transformed/glide-4.16.0/res
+com.aureus.budget.app-cardview-1.0.0-13 /Users/mrsiir/.gradle/caches/9.2.1/transforms/5c4e74191dc36bd79724aab265e0ba4a/transformed/cardview-1.0.0/res
+com.aureus.budget.app-lifecycle-viewmodel-2.7.0-14 /Users/mrsiir/.gradle/caches/9.2.1/transforms/5e0b619d1914fd4c832556bbb4c70146/transformed/lifecycle-viewmodel-2.7.0/res
+com.aureus.budget.app-coordinatorlayout-1.1.0-15 /Users/mrsiir/.gradle/caches/9.2.1/transforms/6dd98cad9e10caf7fb25bc9c03bacb3f/transformed/coordinatorlayout-1.1.0/res
+com.aureus.budget.app-transition-1.2.0-16 /Users/mrsiir/.gradle/caches/9.2.1/transforms/824a2def613860ee8858a802672e95df/transformed/transition-1.2.0/res
+com.aureus.budget.app-activity-1.8.0-17 /Users/mrsiir/.gradle/caches/9.2.1/transforms/856ca3820ecc3411a022cdf0706fe1ef/transformed/activity-1.8.0/res
+com.aureus.budget.app-constraintlayout-2.1.4-18 /Users/mrsiir/.gradle/caches/9.2.1/transforms/8961339e3f355de86dcc6a9a875c8ce0/transformed/constraintlayout-2.1.4/res
+com.aureus.budget.app-core-ktx-1.12.0-19 /Users/mrsiir/.gradle/caches/9.2.1/transforms/8de9bb7c60b96344bc673261a941205d/transformed/core-ktx-1.12.0/res
+com.aureus.budget.app-core-runtime-2.2.0-20 /Users/mrsiir/.gradle/caches/9.2.1/transforms/93afb98dc6d8c89f52afacdad70a1dcc/transformed/core-runtime-2.2.0/res
+com.aureus.budget.app-appcompat-1.6.1-21 /Users/mrsiir/.gradle/caches/9.2.1/transforms/9a7b1757e83375598ccffa1bfae6f545/transformed/appcompat-1.6.1/res
+com.aureus.budget.app-appcompat-resources-1.6.1-22 /Users/mrsiir/.gradle/caches/9.2.1/transforms/9ef4ea39cccd73bb3e47845fca9f4b77/transformed/appcompat-resources-1.6.1/res
+com.aureus.budget.app-lifecycle-viewmodel-savedstate-2.7.0-23 /Users/mrsiir/.gradle/caches/9.2.1/transforms/a1c16a6c8f1790ffc9b73896b36fe695/transformed/lifecycle-viewmodel-savedstate-2.7.0/res
+com.aureus.budget.app-profileinstaller-1.3.0-24 /Users/mrsiir/.gradle/caches/9.2.1/transforms/a5a16dfccdac1c283577be768a949c0d/transformed/profileinstaller-1.3.0/res
+com.aureus.budget.app-annotation-experimental-1.4.1-25 /Users/mrsiir/.gradle/caches/9.2.1/transforms/a5e286764c485077b89a5f50ac70647d/transformed/annotation-experimental-1.4.1/res
+com.aureus.budget.app-lifecycle-livedata-ktx-2.7.0-26 /Users/mrsiir/.gradle/caches/9.2.1/transforms/a60ccb31b483df44c742abf44cc96fdf/transformed/lifecycle-livedata-ktx-2.7.0/res
+com.aureus.budget.app-lifecycle-runtime-2.7.0-27 /Users/mrsiir/.gradle/caches/9.2.1/transforms/a96e35562af67df7bcfede66501a8dd4/transformed/lifecycle-runtime-2.7.0/res
+com.aureus.budget.app-lifecycle-livedata-core-2.7.0-28 /Users/mrsiir/.gradle/caches/9.2.1/transforms/aba8ab619325332606aa12fdcb6894de/transformed/lifecycle-livedata-core-2.7.0/res
+com.aureus.budget.app-drawerlayout-1.1.1-29 /Users/mrsiir/.gradle/caches/9.2.1/transforms/b6d8ef9a626ba557dcdbc84c024e36ec/transformed/drawerlayout-1.1.1/res
+com.aureus.budget.app-lifecycle-livedata-2.7.0-30 /Users/mrsiir/.gradle/caches/9.2.1/transforms/c39eda37e3b72fca8b961e37d54da081/transformed/lifecycle-livedata-2.7.0/res
+com.aureus.budget.app-room-ktx-2.7.0-alpha11-31 /Users/mrsiir/.gradle/caches/9.2.1/transforms/f076719a28b499c0ff51d051ef4c0187/transformed/room-ktx-2.7.0-alpha11/res
+com.aureus.budget.app-fragment-1.3.6-32 /Users/mrsiir/.gradle/caches/9.2.1/transforms/f2413b938656a215a21efe07b4cc1e8b/transformed/fragment-1.3.6/res
+com.aureus.budget.app-lifecycle-process-2.7.0-33 /Users/mrsiir/.gradle/caches/9.2.1/transforms/f262bfa96b8e65447fc58ee51a5a45d6/transformed/lifecycle-process-2.7.0/res
+com.aureus.budget.app-lifecycle-viewmodel-ktx-2.7.0-34 /Users/mrsiir/.gradle/caches/9.2.1/transforms/f6a6a7142411977c59b76861226f8a50/transformed/lifecycle-viewmodel-ktx-2.7.0/res
+com.aureus.budget.app-pngs-35 /Users/mrsiir/Documents/College/2026/PROG7313/Group Assignment/AureusBudget/app/build/generated/res/pngs/debug
+com.aureus.budget.app-resValues-36 /Users/mrsiir/Documents/College/2026/PROG7313/Group Assignment/AureusBudget/app/build/generated/res/resValues/debug
+com.aureus.budget.app-updated_navigation_xml-37 /Users/mrsiir/Documents/College/2026/PROG7313/Group Assignment/AureusBudget/app/build/generated/updated_navigation_xml/debug
+com.aureus.budget.app-packageDebugResources-38 /Users/mrsiir/Documents/College/2026/PROG7313/Group Assignment/AureusBudget/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.aureus.budget.app-packageDebugResources-39 /Users/mrsiir/Documents/College/2026/PROG7313/Group Assignment/AureusBudget/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.aureus.budget.app-debug-40 /Users/mrsiir/Documents/College/2026/PROG7313/Group Assignment/AureusBudget/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.aureus.budget.app-debug-41 /Users/mrsiir/Documents/College/2026/PROG7313/Group Assignment/AureusBudget/app/src/debug/res
+com.aureus.budget.app-main-42 /Users/mrsiir/Documents/College/2026/PROG7313/Group Assignment/AureusBudget/app/src/main/res

@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.aureus.budget.app-mergeDebugResources-38:/layout/item_expense.xml",
+        "source": "com.aureus.budget.app-main-41:/layout/item_expense.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-mergeDebugResources-38:/layout/activity_expense_detail.xml",
+        "source": "com.aureus.budget.app-main-41:/layout/activity_expense_detail.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-mergeDebugResources-38:/layout/activity_register.xml",
+        "source": "com.aureus.budget.app-main-41:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-mergeDebugResources-38:/layout/item_category_report.xml",
+        "source": "com.aureus.budget.app-main-41:/layout/item_category_report.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-mergeDebugResources-38:/layout/activity_add_expense.xml",
+        "source": "com.aureus.budget.app-main-41:/layout/activity_add_expense.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-mergeDebugResources-38:/layout/activity_expense_list.xml",
+        "source": "com.aureus.budget.app-main-41:/layout/activity_expense_list.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-mergeDebugResources-38:/layout/activity_category_report.xml",
+        "source": "com.aureus.budget.app-main-41:/layout/activity_category_report.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-mergeDebugResources-38:/layout/item_category.xml",
+        "source": "com.aureus.budget.app-main-41:/layout/item_category.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.aureus.budget.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-mergeDebugResources-38:/layout/activity_login.xml",
+        "source": "com.aureus.budget.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-mergeDebugResources-38:/layout/item_dashboard_category.xml",
+        "source": "com.aureus.budget.app-main-41:/layout/item_dashboard_category.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-mergeDebugResources-38:/layout/activity_category.xml",
+        "source": "com.aureus.budget.app-main-41:/layout/activity_category.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-mergeDebugResources-38:/layout/activity_budget_goals.xml",
+        "source": "com.aureus.budget.app-main-41:/layout/activity_budget_goals.xml"
+    }
+]

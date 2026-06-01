@@ -1,0 +1,2 @@
+-keep class com.aureus.budget.data.entity.** { *; }
+-keep class com.aureus.budget.data.dao.** { *; }

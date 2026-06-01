@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Navy Blue -->
+    <color name="colorPrimary">#1B3A73</color>
+    <color name="colorPrimaryDark">#122856</color>
+    <color name="colorPrimaryLight">#2C4D8C</color>
+
+    <!-- Gold / Accent -->
+    <color name="colorAccent">#F5C518</color>
+    <color name="colorAccentDark">#D4A800</color>
+
+    <!-- Background -->
+    <color name="colorBackground">#F5F7FA</color>
+    <color name="colorSurface">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="colorTextPrimary">#1A1A2E</color>
+    <color name="colorTextSecondary">#6B7A99</color>
+    <color name="colorTextOnPrimary">#FFFFFF</color>
+    <color name="colorTextOnAccent">#1B3A73</color>
+
+    <!-- Status Colors -->
+    <color name="colorSuccess">#2E7D32</color>
+    <color name="colorWarning">#F57C00</color>
+    <color name="colorError">#C62828</color>
+    <color name="colorSuccessLight">#E8F5E9</color>
+    <color name="colorWarningLight">#FFF3E0</color>
+    <color name="colorErrorLight">#FFEBEE</color>
+
+    <!-- Progress bar colors -->
+    <color name="colorProgressGood">#43A047</color>
+    <color name="colorProgressWarning">#FB8C00</color>
+    <color name="colorProgressOver">#E53935</color>
+
+    <!-- Divider and border -->
+    <color name="colorDivider">#E0E6F0</color>
+    <color name="colorCardBorder">#DDE3EF</color>
+
+    <!-- Category chip colors -->
+    <color name="categoryBlue">#1B3A73</color>
+    <color name="categoryGreen">#2E7D32</color>
+    <color name="categoryOrange">#E65100</color>
+    <color name="categoryPurple">#6A1B9A</color>
+    <color name="categoryRed">#B71C1C</color>
+    <color name="categoryTeal">#00695C</color>
+    <color name="categoryPink">#AD1457</color>
+    <color name="categoryBrown">#4E342E</color>
+</resources>

@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.aureus.budget.app-debug-39:/drawable_bg_category_chip.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/drawable/bg_category_chip.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/layout_activity_budget_goals.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/layout/activity_budget_goals.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/drawable_ic_budgets.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/drawable/ic_budgets.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/layout_item_expense.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/layout/item_expense.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/layout_activity_expense_list.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/layout/activity_expense_list.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/layout_activity_login.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/layout_activity_add_expense.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/layout/activity_add_expense.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/drawable_bg_photo_chip.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/drawable/bg_photo_chip.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/drawable_bg_circle_color.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/drawable/bg_circle_color.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/drawable_ic_close.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/drawable_ic_history.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/layout_item_dashboard_category.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/layout/item_dashboard_category.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/drawable_ic_add.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/xml_file_paths.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/layout_activity_main.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/layout_item_category.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/layout/item_category.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/layout_activity_register.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/drawable_ic_today.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/drawable/ic_today.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/layout_item_category_report.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/layout/item_category_report.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/layout_activity_category.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/layout/activity_category.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/drawable_ic_back.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/drawable_ic_delete.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/drawable_ic_home.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/layout_activity_category_report.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/layout/activity_category_report.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/drawable_ic_edit.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/drawable_ic_reports.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/drawable/ic_reports.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/drawable_ic_settings.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/layout_activity_expense_detail.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/layout/activity_expense_detail.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/drawable_ic_more.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/drawable/ic_more.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/drawable_ic_camera.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.aureus.budget.app-debug-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.aureus.budget.app-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
